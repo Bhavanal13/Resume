@@ -1,7 +1,6 @@
 
 Welcome!  
-This repository contains my latest professional resume, tailored for **Software Engineer** and **Cloud DevOps Engineer** positions.
-
+This repository contains my latest professional resume
 ## About Me
 I am a software engineer with experience in:
 - Embedded Systems
