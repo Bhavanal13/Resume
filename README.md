@@ -3,10 +3,10 @@ Welcome!
 This repository contains my latest professional resume
 ## About Me
 I am a software engineer with experience in:
+- Machine Learning & Data Aalysis
+- Networking and Software Development
 - Embedded Systems
 - Cloud DevOps
-- Machine Learning & Data Analysis
-- Networking and Software Development
 
 Previously worked at **L&T (Larsen & Toubro)** and **Cognizant**.
 
